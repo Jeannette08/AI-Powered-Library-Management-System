@@ -13,9 +13,6 @@ An intelligent solution designed to modernize library operations through AI-driv
 * **Database:** SQL (Structured schema for Users, Books, and Transactions)
 * **Tools:** QR Code Generation, requirements.txt for dependency management.
 
-## 📸 System Preview
-![Dashboard Preview](path/to/your/screenshot.png) 
-*Tip: Upload a screenshot of your UI mockup to the `book_images` folder and link it here!*
 
 ## ⚙️ Installation
 1. Clone the repo: `git clone [your-url]`
