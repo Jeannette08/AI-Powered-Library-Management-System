@@ -15,6 +15,6 @@ An intelligent solution designed to modernize library operations through AI-driv
 
 
 ## ⚙️ Installation
-1. Clone the repo: `git clone [your-url]`
+1. Clone the repo: `git clone https://github.com/Jeannette08/AI-Powered-Library-Management-System.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the system: `python libraai_system.py`
